@@ -1,5 +1,7 @@
 # Training binary LSTM using gumbel-sigmoid
 
+thing is largely a work in progress
+
 __TL;DR: [main notebook](https://github.com/yandexdataschool/gumbel_lstm/blob/master/binary_lstm.ipynb)__
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/gumbel_lstm) (may be off sometimes)
