@@ -1,6 +1,6 @@
 FROM andrewosh/binder-base
 
-MAINTAINER Alexander Panin <justheuristic@gmail.com>
+MAINTAINER Your Name <justheuristic@gmail.com>
 
 USER root
 
